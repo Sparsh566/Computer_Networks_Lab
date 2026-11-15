@@ -1,8 +1,4 @@
-/*
- * Name: Yash Khadgi
- * PRN: 24070521137
- * Batch: B2
- */
+
 
 #include <stdio.h>
 #include <stdlib.h>
